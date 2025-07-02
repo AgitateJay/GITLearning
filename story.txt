@@ -1,3 +1,4 @@
 This is the beginning of a story about a developer named Tygan.
 
+Chapter 1 - Development
 Tygan was developing a new WordPress theme when...
